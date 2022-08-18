@@ -1,0 +1,51 @@
+Instrucciones para que funcione el Graficar del Árbol
+
+- 1. Revisar la ruta de la clase Formulario.cs donde está el archivo de Imagen @"C:\Users\kiuri\Imagen.png"
+  y cambiarlo por la ruta de su propia compu que sería @"C:\Users\[SuNombreDeUsuario]\Imagen.png"
+
+  Environment.SpecialFolder.UserProfile
+
+  Cambiar esto en el código
+  kiuri --->  SuNombreDeUsuario
+
+Por ejemplo: 
+   C:\Users\Juan\Imagen.png
+   kiuri --->  Juan
+
+
+- 2. Copiar lo que tiene la carpeta Dibujo en la ruta de su compu
+
+  En la ruta C:\Users\[SuNombreDeUsuario]\Imagen.png copie los siguientes archivos:
+
+  - Arbol.dot
+  - Batch.bat
+  - Imagen.png
+
+- 3. Abrir el archivo Batch.bat y modificarlo en bloc de notas o notepad
+
+Contenido Actual del Archivo
+
+@echo off
+cd C:\Users\kiuri
+del Imagen.png
+dot.exe -Tpng Arbol.dot -o Imagen.png
+
+Modificar la segunda línea 
+
+Cambiar cd C:\Users\kiuri  por cd C:\Users\[SuNombreDeUsuario]
+
+Por ejemplo: 
+   C:\Users\Juan\Imagen.png
+   Cambia cd C:\Users\kiuri  por cd C:\Users\Juan
+
+   Contenido del Archivo Modificado quedaría así
+
+   @echo off
+   cd C:\Users\Juan
+   del Imagen.png
+   dot.exe -Tpng Arbol.dot -o Imagen.png
+
+
+
+
+

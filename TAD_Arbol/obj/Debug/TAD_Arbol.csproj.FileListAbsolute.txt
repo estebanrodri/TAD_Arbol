@@ -1,0 +1,10 @@
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\bin\Debug\TAD_Arbol.exe.config
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\bin\Debug\TAD_Arbol.exe
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\bin\Debug\TAD_Arbol.pdb
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.Formulario.resources
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.Properties.Resources.resources
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.csproj.GenerateResource.cache
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.csproj.CoreCompileInputs.cache
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.exe
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.pdb
+C:\Estructuras de Datos\TAD_Arbol\TAD_Arbol\obj\Debug\TAD_Arbol.csproj.AssemblyReference.cache

@@ -1,0 +1,19 @@
+digraph Grafico {
+node [style=bold, fillcolor=gray];
+M
+M->C;
+M->S;
+C
+C->K;
+K
+K->J;
+K->L;
+J
+L
+S
+S->R;
+S->T;
+R
+T
+
+}
